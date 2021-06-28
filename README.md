@@ -1,4 +1,4 @@
-### Hi there !src="https://github.com/averge/averge/blob/main/Hi.gif" width="29px">
+### Hi there !<img src="https://github.com/averge/averge/blob/main/Hi.gif" width="29px">
 
 <!--
 **averge/averge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
