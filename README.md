@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://github.com/averge/averge/blob/main/Hi.gif" width="29px">, I'm Augusto Verge</h1>
-<h3 align="center">A software developer from Argentina</h3>
+<h3 align="center">A software developer from Argentina 🇦🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=averge&label=Profile%20views&color=0e75b6&style=flat" alt="averge" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://web-augustoverge.herokuapp.com](https://web-augustoverge.herokuapp.com)
 
-- 📫 How to reach me **augus.verge.av@gmail.com**
+- 📫 How to reach me <a href="mailto:augus.verge.av@gmail.com">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
