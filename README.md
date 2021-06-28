@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://web-augustoverge.herokuapp.com](https://web-augustoverge.herokuapp.com)
 
-- 📫 How to reach me <a href="mailto:augus.verge.av@gmail.com">
+- 📫 How to reach me **augus.verge.av@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
