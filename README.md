@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/augustoverge" target="blank"><img src="https://img.shields.io/twitter/follow/augustoverge?logo=twitter&style=for-the-badge" alt="augustoverge" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://web-augustoverge.herokuapp.com](https://web-augustoverge.herokuapp.com)
+- 👨‍💻 All of my projects are available at [https://augustoverge.herokuapp.com](https://augustoverge.herokuapp.com)
 
 - 📫 How to reach me **augus.verge.av@gmail.com**
 
