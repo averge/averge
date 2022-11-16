@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://github.com/averge/averge/blob/main/Hi.gif" width="29px">, Augusto Verge</h1>
+<h1 align="center">Augusto Verge <img src="https://github.com/averge/averge/blob/main/Hi.gif" width="29px"></h1>
 
 
 - 📫 email: **augus.verge.av@gmail.com**
